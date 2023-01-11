@@ -30,7 +30,7 @@ Filesystem : Large FAT32
 Voila! MacOS on your computer!
 
 # What's working?
- Intel HD 520 Graphics (incuding graphics acceleration)
+ Intel HD 520 Graphics (including graphics acceleration)
  CPU Power Management
  Battery
  All USB ports
@@ -42,7 +42,7 @@ Voila! MacOS on your computer!
  Trackpad, Trackpoint and physical buttons (including gestures)
  Sleep / Wake / Shutdown / Reboot (lid sleep and lid wake)
  Keyboard (incuding all fn Keys using ThinkpadAssistant)
- iMessage, FaceTime, App Store, iTunes Store (with valid smbios)
+ Apple Services (iMessages, iCloud...) (just app store is broken)
  DRM support (iTunes Movies, Apple TV+, Amazon Prime and Netflix, and others)
  SD Card Reader (v2.2 works but still a bit unstable)
 # What's not working
