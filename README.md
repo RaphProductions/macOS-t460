@@ -1,5 +1,5 @@
 # macOS11-t460
-A kit to install macOS 11 (Big Sur) on the ThinkPad T460 (Powered by OpenCore)
+A kit to install macOS (Big Sur) on the ThinkPad T460 (Powered by OpenCore)
 
 ## How to install it?
 1 : Format the USB with Rufus with this options :
@@ -12,7 +12,7 @@ Filesystem : Large FAT32
     
 3 : Boot your computer from the USB drive you made and boot into your USB
 
-    Some console lines will be shown (that's verbose mode), Don't worry, it's normal.
+    The Apple Logo will show.
 
 4 : Go to Disk Utility and format your internal hard drive to APFS (Apple File System)
 
