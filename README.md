@@ -30,34 +30,34 @@ Filesystem : Large FAT32
 Voila! MacOS on your computer!
 
 # What's working?
- Intel HD 520 Graphics (including graphics acceleration) (broken on macOS 13)
- CPU Power Management
- Battery
- All USB ports
- HDMI port (including HDMI Audio)
- Intel I219V Ethernet port
- Realtek ALC239 Audio (including headphones jack)
- Wi-Fi & Bluetooth (including Apple services)
- Internal camera (including Facetime)
- Trackpad, Trackpoint and physical buttons (including gestures)
- Sleep / Wake / Shutdown / Reboot (lid sleep and lid wake)
- Keyboard (incuding all fn Keys using ThinkpadAssistant)
- Apple Services (iMessages, iCloud...) (just app store is broken)
- DRM support (iTunes Movies, Apple TV+, Amazon Prime and Netflix, and others)
- SD Card Reader (v2.2 works but still a bit unstable)
+## Intel HD 520 Graphics (including graphics acceleration)
+## CPU Power Management
+## Battery
+## All USB ports
+## HDMI port (including HDMI Audio)
+## Intel I219V Ethernet port
+## Realtek ALC239 Audio (including headphones jack)
+## Wi-Fi & Bluetooth (including Apple services)
+## Internal camera (including Facetime)
+## Trackpad, Trackpoint and physical buttons (including gestures)
+## Sleep / Wake / Shutdown / Reboot (lid sleep and lid wake)
+## Keyboard (incuding all fn Keys using ThinkpadAssistant)
+## Apple Services (iMessages, iCloud...) (just app store is broken)
+## DRM support (iTunes Movies, Apple TV+, Amazon Prime and Netflix, and others)
+## SD Card Reader (v2.2 works but still a bit unstable)
 # What's not working
- Fingerprint Reader (will never work since no drivers available)
- Sidecar Wireless (doesn't work without apple native WIFI card)
+## Fingerprint Reader (will never work since no drivers available)
+## Sidecar Wireless (doesn't work without apple native WIFI card)
  
 # BIOS Settings
 
-Security Chip Disabled
-Memory Protection -> Execution Prevention Enabled
-Virtualization -> Intel Virtualization Technology Enabled
-Virtualization -> Intel VT-d Feature Enabled
-Anti-Theft -> Computrace -> Current Setting Disabled
-Secure Boot -> Secure Boot Disabled
-Intel SGX -> Intel SGX Control Disabled
-Device Guard Disabled
-UEFI/Legacy Boot UEFI Only
-CSM Support No
+## Security Chip Disabled
+## Memory Protection -> Execution Prevention Enabled
+## Virtualization -> Intel Virtualization Technology Enabled
+## Virtualization -> Intel VT-d Feature Enabled
+## Anti-Theft -> Computrace -> Current Setting Disabled
+## Secure Boot -> Secure Boot Disabled
+## Intel SGX -> Intel SGX Control Disabled
+## Device Guard Disabled
+## UEFI/Legacy Boot UEFI Only
+## CSM Support No
