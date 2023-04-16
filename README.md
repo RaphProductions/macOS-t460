@@ -2,6 +2,7 @@
 A kit to install macOS on the ThinkPad T460 (Powered by OpenCore)
 
 ## How to install it?
+
 1 : Format the USB with Rufus with this options :
 Boot selection : Not bootable
 Filesystem : Large FAT32
@@ -30,6 +31,7 @@ Filesystem : Large FAT32
 Voila! MacOS on your computer!
 
 # What's working?
+
 ### Intel HD 520 Graphics (including graphics acceleration)
 ### CPU Power Management
 ### Battery
