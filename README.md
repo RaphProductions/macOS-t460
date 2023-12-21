@@ -20,7 +20,7 @@
 * Lenovo ThinkPad T460 (Skylake i5)
 
 ### Note
-I'm not responsible for any damage made to your computer by installing macOS on it so try installing it on a secondary cheap SSD first instead of your actual windows disk.
+I'm not responsible for any damage made to your computer by installing macOS on it so try installing it on a secondary cheap SSD first instead of your actual Windows disk.
 
 ### 1 : Format the USB
 Open Rufus (cause balenaetcher doesn't work some times for no particular reason) and select these options :
@@ -35,6 +35,8 @@ I do recommend following [this guide by Dortania](https://dortania.github.io/Ope
 
 ### 2.5 Place the EFI in your USB
 So next we just place the the EFI folder you downloaded from this repo's Releases folder in the MacOS USB
+
+*Note: If this EFI doesnt work for you, or causes some incompatibility you are free to try [this bigsur one](https://github.com/AsherCarneiro/T460-MacOS-BigSur) or any other one's from github just make sure to download updated kexts (you can update kexts using dortania's guide and don't forget to use OC clean Snapshot in Propertree on config file)
 
 ###Note: Delete all files that rufus makes like `autorun.inf` or other files like those, you usb should only have `com.apple.recovery` and `EFI` folders present.
 
