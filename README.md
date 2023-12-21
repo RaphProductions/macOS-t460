@@ -76,6 +76,8 @@ Finally, select your internal hard drive and click on Install.
 ### 6 : Setup your "Thinkbook"
 Set it up like any other Mac on Earth.
 
+* Note: If the installer image is in some weird language you don't understand then the second option next to apple logo is actually `language change option`
+
 ### 7 : Install the bootloader
 Now, we installed macOS, but we still need our USB stick to boot it...
 
