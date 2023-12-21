@@ -20,7 +20,7 @@
 * Lenovo ThinkPad T460 (Skylake i5)
 
 ### Note
-I'm not responsible for any damage made to your computer by installing macOS on it so try installing it on a secondary cheap SSD first instead of your actual Windows disk.
+### _I'm not responsible for any damage made to your computer by installing macOS on it so try installing it on a secondary cheap SSD first instead of your actual windows disk._
 
 ### 1 : Format the USB
 Open Rufus (cause balenaetcher doesn't work some times for no particular reason) and select these options :
