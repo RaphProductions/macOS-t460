@@ -1,4 +1,4 @@
-# MacOS Kit from OS11 to 13
+# MacOS Kit from OS11 to 13 💻
 ## A kit to install macOS on the ThinkPad T460 (Powered by OpenCore)
 
 ### Before you continue, let's change to these BIOS Settings for better compatibility
