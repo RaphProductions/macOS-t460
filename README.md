@@ -1,3 +1,8 @@
+# Project Discontinuation
+This project is now abandoned, due to several things:
+* macOS removed drivers for the Intel HD Graphics 520
+* I switched to a new laptop recently.
+
 # macOS-t460
 A kit to install macOS on the ThinkPad T460 (Powered by OpenCore)
 
